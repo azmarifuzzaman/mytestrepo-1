@@ -1,1 +1,3 @@
 this is a 2nd file made from main github account
+
+this line is added to test [git diff] command
